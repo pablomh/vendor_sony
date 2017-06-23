@@ -63,4 +63,10 @@ PRODUCT_PACKAGES += \
 	keymaster_b01 \
 	keymaster_b02 \
 	keymaster_b03 \
-	keymaster_mdt
+	keymaster_mdt \
+	libacdb-fts \
+	libacdbloader \
+	libacdbmapper \
+	libacdbrtac \
+	libadiertac \
+	libaudcal
